@@ -14,7 +14,9 @@ Sofle RGB was contributed by [Dane Evans](https://github.com/DaneEvans).
 
 Sofle uses [QMK firmware](https://qmk.fm/)
 
+## Default layout 
 
+![Default layout for SofleKeyboard](Images/soflekeyboard.png)
 
 ## Images of keyboard
 
