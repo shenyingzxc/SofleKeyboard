@@ -2,7 +2,12 @@
 
 ![SofleKeyboard](docs/images/sofle_keyboard.jpg)
 
-Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
+Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. HEllo world! Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
+
+
+
+Hello
+
 
 **[For more information and documentation visit https://josefadamcik.github.io/SofleKeyboard/](https://josefadamcik.github.io/SofleKeyboard/)**
 
@@ -14,9 +19,7 @@ Sofle RGB was contributed by [Dane Evans](https://github.com/DaneEvans).
 
 Sofle uses [QMK firmware](https://qmk.fm/)
 
-## Default layout 
 
-![Default layout for SofleKeyboard](Images/soflekeyboard.png)
 
 ## Images of keyboard
 
